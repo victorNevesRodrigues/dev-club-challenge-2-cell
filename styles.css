@@ -1,0 +1,61 @@
+* {
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+h1 {
+  font-size: 32px;
+  font-weight: bold;
+  margin: 128px 0px 12px 16px;
+}
+.firstP {
+  font-size: 20px;
+  letter-spacing: 0.41px;
+  color: rgba(0, 0, 0, 0.5);
+  margin: 0px 16px 102px 16px;
+}
+input {
+  display: block;
+  background: #f2f2f7;
+  margin: 0px auto 17px auto;
+  width: 340px;
+  height: 48px;
+  border: none;
+  border-radius: 6px;
+  padding-left: 14px;
+  color: #929292;
+  font-size: 16px;
+  letter-spacing: -0.41px;
+}
+.forgotPass {
+  display: block;
+  text-decoration: none;
+  color: #007aff;
+  font-size: 16px;
+  text-align: right;
+  margin-right: 16px;
+  margin-bottom: 20px;
+}
+button {
+  display: block;
+  background: rgba(0, 0, 0, 0.94);
+  width: 340px;
+  height: 48px;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 17px;
+  letter-spacing: -0.41px;
+  margin: 0px auto 215px auto;
+}
+.Second {
+  text-align: center;
+  color: rgba(0, 0, 0, 0.51);
+  font-weight: 500;
+  font-size: 16px;
+}
+.Second a {
+  text-decoration: none;
+  color: #007aff;
+}
